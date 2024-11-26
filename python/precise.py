@@ -1,9 +1,8 @@
 from typing import Tuple
-from math import exp, sqrt, pi, asin, pi, log as ln
+from math import lgamma as gammaln, exp, sqrt, pi, asin, pi, log as ln
 from math import ceil, floor
 
 import numpy as np
-from scipy.special import gamma, gammaln
 
 from opt_ctypes import find_mean_max_log_wealth_constrained
 
