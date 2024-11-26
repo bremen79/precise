@@ -9,5 +9,5 @@ Orabona and Jun,
 The algorithms construct a sequence of time-uniform confidence intervals, also known as confidence sequences, using a betting approach.
 In particular, the regret of universal portfolio algorithms is used to construct implicit concentration inequalities that are numerically inverted.
 
-The matlab folder contains the implementation of all the algorithms in Matlab, while the pyhton folder contains the implementation of PRECiSE_CO96 only.
+The matlab folder contains the implementation of all the algorithms in Matlab, while the pyhton folder contains the implementation of PRECiSE-CO96 only.
 Take a look at the demo scripts in both directories for an example of usage.
