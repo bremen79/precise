@@ -11,3 +11,5 @@ In particular, the regret of universal portfolio algorithms is used to construct
 
 The matlab folder contains the implementation of all the algorithms in Matlab, while the pyhton folder contains the implementation of PRECiSE-CO96 only.
 Take a look at the demo scripts in both directories for an example of usage.
+
+![demo](figures/demo.png)
