@@ -17,6 +17,7 @@ figure
 h1=semilogx(l_co96,'r'); hold on; semilogx(u_co96,'r');
 h2=semilogx(l_a_co96,'g'); hold on; semilogx(u_a_co96,'g');
 h3=semilogx(l_r70,'b'); hold on; semilogx(u_r70,'b');
+grid on
 legend([h1,h2,h3],'PRECiSE-CO96', 'PRECiSE-A-CO96', 'PRECiSE-R70')
 xlabel('Number of samples (log scale)')
 ylabel('Confidence Sequences')
