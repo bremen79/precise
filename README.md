@@ -19,6 +19,8 @@ Building upon the theory of online betting and portfolio selection, we propose a
 - **Optimal Asymptotics**: Matches the best possible performance for large datasets.
 - **Efficient Algorithms**: Includes both exact and approximated methods for fast computations.
 
+  ![demo](figures/demo.png)
+
 ## Algorithms
    
 - PRECiSE-CO96: A method leveraging regret guarantees of universal portfolio algorithms for optimal confidence sequences.
