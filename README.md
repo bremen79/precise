@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the software implementation of the methods presented in [Tight Concentrations and Confidence Sequences from the Regret of Universal Portfolio](https://ieeexplore.ieee.org/document/10315047) (also available on [Arxiv](https://arxiv.org/pdf/2110.14099.pdf)). We introduce novel methods for deriving time-uniform concentration inequalities and confidence sequences using portfolio algorithms. These results have direct applications in statistics and machine learning, specifically for constructing valid and tight confidence intervals.
+This repository contains the software implementation of the methods presented in [Tight Concentrations and Confidence Sequences from the Regret of Universal Portfolio](https://ieeexplore.ieee.org/document/10315047). We introduce novel methods for deriving time-uniform concentration inequalities and confidence sequences using portfolio algorithms. These results have direct applications in statistics and machine learning, specifically for constructing valid and tight confidence intervals.
 
 ## Problem Statement
 
