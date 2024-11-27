@@ -25,7 +25,9 @@ Building upon the theory of online betting and portfolio selection, we propose a
    
 - PRECiSE-CO96: A method leveraging regret guarantees of universal portfolio algorithms for optimal confidence sequences.
 - PRECiSE-A-CO96: A computationally efficient variant with constant-time updates per sample.
-- PRECiSE-R70: A portfolio algorithm inspired by Robbins' mixture method, achieving state-of-the-art asymptotic performance while satisfying the law of iterated logarithm.
+- PRECiSE-R70: A portfolio algorithm inspired by Robbins' mixture method, achieving state-of-the-art performance while satisfying the law of iterated logarithm.
+
+The random variable for all algorithms must be in [0,1], they can be continuous or discrete.
 
 The matlab folder contains the implementation of all the algorithms in Matlab, while the Python folder contains the implementation of PRECiSE-CO96 only.
 Take a look at the demo scripts in both directories for an example of usage.

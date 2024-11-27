@@ -4,7 +4,7 @@ function [lcblist,ucblist] = precise_r70(x,delta)
 %   [L,U] = PRECISE_R70(X,delta) produces two matrices, of the same 
 %   dimension as X and with lower and upper confidence sequences with
 %   probability of error delta. X is numer-of-samples by
-%   number-of-repetitions.
+%   number-of-repetitions, where each sample must be in [0,1].
 
 %  This algorithm is described in  Orabona and Jun, "Tight Concentrations
 %  and Confidence Sequences from the Regret of Universal Portfolio", ArXiv

@@ -17,7 +17,7 @@ def precise_co96(
   """ PRECiSE-CO96
   
   Args:
-    x: 1-D array of data points
+    x: 1-D array of data points in [0,1]
     delta: error probability
 
   Returns:
